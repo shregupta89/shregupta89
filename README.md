@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I am Shreya Gupta</h1>
-<h3 align="center">A passionate developer wokring on fullstack ,ML projects and leading Assetmerkle at IGDTUW</h3>
-<h4>I look forward to connecting with like-minded individuals.</h4>
+<h3 align="center">A passionate developer working on fullstack ,ML projects and leading Assetmerkle at IGDTUW</h3>
+<h4 align="center">I look forward to connecting with like-minded individuals.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shregupta89" alt="shregupta89" /></a> </p>
 
